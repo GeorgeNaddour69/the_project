@@ -105,13 +105,13 @@ button{transform: translate(140%,330%);}
 }
 @media (max-width:1100px)   {
   .logo{font-size: 30px;}
-  .disc{font-size: 21px;
+  .disc{font-size: 21px;                                     /* ملاحظة : لقد قمت بربط ازرار مواقع التواصل بموقع مطعم وليس بصفحتي (فقط للتعريف انني استطيع ربط الصفحات  ببعضها)*/
     text-align: center;
  width: 310px;
  height: 25px;
  transform: translate(20%,200%);
 }
- .presents{font-size: 20px;
+ .presents{font-size: 20px;                                             /*اخيرا ,شكرا لك مهندس شيار ولكل شخص ساهم بهذا الكورس الرائع  ونلتقي مجددا بكورس بوتستراب*/
   transform: translate(15%,270%);
 }
  .dishes{font-size: 20px;
